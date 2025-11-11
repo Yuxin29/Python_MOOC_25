@@ -13,9 +13,3 @@ This repository contains exercises from a introduction to programming Python fro
 - Builds on the basics with more complex problems involving functions, file I/O, dictionaries, and modular code.  
 - Exercises encourage problem-solving, code organization, and using Pythonic practices.  
 - Prepares students for real-world Python programming challenges.
-
-🚀 **Running the Exercises**
-
-1. Navigate to the exercise directory:  
-```bash
-cd basic   # or advanced
