@@ -1,8 +1,8 @@
-# 🐍 Introduction to Programming in Python
+# Introduction to Programming in Python
 
 This repository contains exercises from a introduction to programming Python from Helsinki Open University. Each exercise focuses on learning Python syntax, control structures, data types, functions, and problem-solving using small, hands-on programs.
 
-📦 **Sections**
+## Sections
 
 ### Basic
 - Focuses on Python fundamentals: variables, loops, conditionals, lists, strings, and simple functions.  
